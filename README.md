@@ -1,1 +1,4 @@
-# git_assignment_2
+Name: Kritarth Prasad
+Roll No: 2024BCS-032
+Course: Software Engineering
+Sem: IV
