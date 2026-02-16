@@ -13,3 +13,5 @@
 7) Security Features – Dependabot alerts, secret scanning, and vulnerability management.
 
 8) GitHub Copilot – AI-powered coding assistant that suggests code snippets and functions.
+
+9) Github Wiki - Each repository can have its own Wiki, where developers document project details, usage guides, architecture notes, or FAQs.
